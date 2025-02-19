@@ -1,4 +1,4 @@
-## MERN Ecommerce: A Seamless Shopping Experience Powered by the MERN Stack, Redux Toolkit, and Material UI
+## MERN Ecommerce Project with MERN Stack, Redux Toolkit, and Material UI
 
 ### ```Note✨: I have another amazing project on``` [end-to-end-encrypted-chat-application](https://github.com/RishiBakshii/mern-chat) ```using mern stack.```
 
